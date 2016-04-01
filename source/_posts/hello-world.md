@@ -1,38 +1,15 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+First post. For a long time I was thinking of opening a blog. Today is the big day :)
 
-## Quick Start
+Hopefully I plan to write occasionally here about technology, engineering, coding and life in general which needs more than 140 characters.
 
-### Create a new post
+As my mother language is Turkish, I may sometimes write in Turkish way of expressing things. So please bear with me.
 
-``` bash
-$ hexo new "My New Post"
-```
+I will keep it short for this post as [hello world programs](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) are always small. :)
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+I would like to thank [GitHub](https://github.com/saltukalakus/saltukalakus) for hosting this site for free. 
 
-### Run server
+And If you are interested how this site is build you can visit this [link](https://github.com/saltukalakus/saltukalakus)
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
