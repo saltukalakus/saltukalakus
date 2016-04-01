@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-hexo generate --deploy
+hexo generate
+cp CNAME ./public/
+hexo publish
