@@ -9,7 +9,7 @@ As my mother language is Turkish, I may sometimes write in Turkish way of expres
 
 I will keep it short for this post as [hello world programs](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) are always small. :)
 
-I would like to thank [GitHub](https://github.com/saltukalakus/saltukalakus) for hosting this site for free. 
+I would like to thank [GitHub](https://github.com) for hosting this site for free. 
 
 And If you are interested how this site is build you can visit this [link](https://github.com/saltukalakus/saltukalakus)
 
