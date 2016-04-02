@@ -5,7 +5,7 @@ First post. For a long time I was thinking of opening a blog. Today is the big d
 
 Hopefully I plan to write occasionally here about technology, engineering, coding and life in general which needs more than 140 characters.
 
-As long as the topic is not very specific to Turkish audiences, I plan to write in English. As my mother language is not English, I may sometimes expressing things in Turkish way. So please bear with me.
+As long as the topic is not very specific to Turkish audiences, I plan to write in English. As my mother language is not English, I may sometimes express things in Turkish way. So please bear with me.
 
 I will keep it short for this post as [hello world programs](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) are always small. :)
 
