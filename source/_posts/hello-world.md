@@ -1,9 +1,9 @@
 ---
 title: Hello World
 ---
-First post. For a long time I was thinking of opening a blog. Today is the big day :)
+For a long time I was thinking of sharing thoughts on a blog. Finally I am starting today.
 
-Hopefully I plan to write occasionally here about technology, engineering, coding and life in general which needs more than 140 characters.
+Hopefully I plan to write here about technology, engineering, coding and life in general which needs more than 140 characters.
 
 As long as the topic is not very specific to Turkish audiences, I plan to write in English. As my mother language is not English, I may sometimes express things in Turkish way. So please bear with me.
 
