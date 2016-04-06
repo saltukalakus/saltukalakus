@@ -2,12 +2,10 @@
 title: Hello World
 tags:
   - general
-  - english
 id: 1
 categories:
-  - general
-  - english
-date: 2014-04-02 22:40:12
+  - English
+date: 2016-04-02 22:40:12
 ---
 For a long time I was thinking of sharing thoughts on a blog. Finally I am starting today.
 
