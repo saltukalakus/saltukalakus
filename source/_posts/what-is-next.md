@@ -7,10 +7,6 @@ id: 2
 categories:
   - English
 ---
-
-So what is next?
--------
-
 For the last a few weeks I was thinking about what I can write on this blog. General topics on engineering, 
 software, religion could possibly fit. But writing with an effort to provide valuable information will consume my time. 
 The things I will write will probably already be written somewhere. 
