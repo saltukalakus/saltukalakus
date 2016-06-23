@@ -23,5 +23,6 @@ I have quickly realised that before delving into AI topics in vision, I have to 
 
 By the way I have decided to use [Python](http://www.python.org) programming language for my AI works. Python is my favorite language for software development. Luckily many open source AI projects and libraries are written with or have bindings for Python.
   
+Next a few posts I plan to share my experience with computer vision while following Solem's book.
 
 
