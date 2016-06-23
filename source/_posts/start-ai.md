@@ -19,10 +19,10 @@ Text, speech and vision processing has a lot of potential in web based applicati
  
 I have decided to start my adventure in AI with vision path. Vision problems are more well defined. And there is more mature algorithms available in vision. So it is a little bit easier to start with. Also I am more interested in industrial applications of AI. So vision route fits better here.
 
-I have quickly realised that before delving into AI topics in vision, I have to refresh my math skills and knowledge on computer vision. I have found one good book by [Jan Erik Solem](https://twitter.com/jesolem) on computer vision which explains the topics with practical Python examples. Here is the [link](http://programmingcomputervision.com/) for the free version of the book.
+I have quickly realised that before delving into AI topics in vision, I have to refresh my math skills and knowledge on computer vision. I have found one good book by [Jan Erik Solem](https://twitter.com/jesolem) on computer vision which explains the topics with practical Python examples. Here is the [link](http://programmingcomputervision.com/) for the free version of the book. Next a few posts I plan to share my experience with computer vision while following Solem's book.
 
 By the way I have decided to use [Python](http://www.python.org) programming language for my AI works. Python is my favorite language for software development. Luckily many open source AI projects and libraries are written with or have bindings for Python.
   
-Next a few posts I plan to share my experience with computer vision while following Solem's book.
+
 
 
