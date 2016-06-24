@@ -13,7 +13,7 @@ To understand and digest AI topics I can simply group the possible AI applicatio
 
 Having intelligence in vision has great number of possible use cases in industry. AI in vision can produce a lot of value for  manufacturing. Computer vision is the core part of security, automation, testing and robotics. AI can solve many unsolvable problems in computer vision.
 
-On the other hand, having intelligence in speech and text processing has a lot of possible use cases in text based data analysis. Clever text processing can detect fraud, predict future trends, find solutions in business, be your personal assistant, diagnose illnesses and many many more.
+On the other hand, having intelligence in speech and text processing has a lot of possible use cases in text based data analysis. Clever text processing can detect fraud, clever algorithms with analysing big amount of data can predict future trends, find solutions in business, be your personal assistant, diagnose illnesses and many many more.
 
 Clever text, speech and image processing has a lot of potential in web based applications. As a consequence, AI is in many high tech companies radar like [Google](http://www.wired.com/2015/11/google-open-sources-its-artificial-intelligence-engine/), Facebook, Microsoft and Amazon. Due to obvious benefits of open source software development model, there are now bunch of open source projects released by these companies.
  
