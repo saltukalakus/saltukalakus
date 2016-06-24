@@ -15,7 +15,7 @@ AI can produce a lot of value for  manufacturing. Machine vision is the core par
 
 On the other hand, having intelligence in speech and text processing has a lot of possible use cases in text based data analysis. Clever text processing can detect fraud, predict future trends, find solutions in business, be your personal assistant, diagnose illnesses and many many more.
 
-Text, speech and vision processing has a lot of potential in web based applications. As a consequence, AI is in many high tech companies radar like Google, Facebook, Microsoft and Amazon. Having discovered the potential benefits of open source software development model, there are now bunch of open source projects released by these companies.
+Clever text, speech and vision/image processing has a lot of potential in web based applications. As a consequence, AI is in many high tech companies radar like Google, Facebook, Microsoft and Amazon. Having discovered the potential benefits of open source software development model, there are now bunch of open source projects released by these companies.
  
 I have decided to start my adventure in AI with vision path. Vision problems are more well defined. And there is more mature algorithms available in vision. So it is a little bit easier to start with. Also I am more interested in industrial applications of AI. So vision route fits better here.
 
