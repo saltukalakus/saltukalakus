@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Saltuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltukalakus)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Saltuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltukalakus&show_icons=true&theme=dark)
