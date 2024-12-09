@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Please help me achive my A+ rating target by 2025 by giving ⭐️⭐️⭐️ to my opensource projects if they help you 🫣
+Please help me achieve my target A+ rating here by 2025 by giving ⭐️⭐️⭐️ to my open-source projects if they help you 🫣
+
+All contributions (PRs, Issues, Questions) are welcome!
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=saltukalakus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltukalakus&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
