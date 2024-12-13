@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Give some ⭐️⭐️⭐️ to my open-source projects if they help you 🫣
+⭐️⭐️⭐️ 👉 my projects if you found them useful 🫣
 
 All contributions (PRs, Issues, Questions) are welcome!
 
