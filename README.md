@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Please help me achieve my A+ rating target here in 2025 by giving ⭐️⭐️⭐️ to my open-source projects if they help you 🫣
+Please help me achieve my A+ rating target in 2025 by giving ⭐️⭐️⭐️ to my open-source projects if they help you 🫣
 
 All contributions (PRs, Issues, Questions) are welcome!
 
