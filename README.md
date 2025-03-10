@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 All contributions (PRs, Issues, Questions) are welcome!
 
+<!--
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=saltukalakus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltukalakus&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
