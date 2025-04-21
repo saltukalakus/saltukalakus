@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-This is Saltuk. Thank you for coming by.
-
-Are you interested in Blockchain, Identity and Access management, programming in Rust or JavaScript? Awesome, we have something in common 🔭
+Thank you for coming by. Are you interested in Blockchain, Identity and Access management, programming in Rust or JavaScript? Awesome, we have something in common 🔭
 
 Send me a connection request on [LinkedIn](https://uk.linkedin.com/in/saltukalakus) and we can chat. 
 
