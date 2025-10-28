@@ -35,6 +35,132 @@
       gap: 1.5rem;
     }
 
+    .profile-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .profile-photo-container {
+      position: relative;
+      flex-shrink: 0;
+    }
+
+    .profile-photo {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #e5e7eb;
+      display: block;
+      position: relative;
+      z-index: 2;
+    }
+
+    .pulse-ring {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      border: 2px solid #3b82f6;
+      animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+      animation-iteration-count: 2;
+      z-index: 1;
+    }
+
+    @keyframes pulse {
+      0% {
+        transform: scale(1);
+        opacity: 1;
+      }
+      50% {
+        transform: scale(1.4);
+        opacity: 0.3;
+      }
+      100% {
+        transform: scale(1.6);
+        opacity: 0;
+      }
+    }
+
+    .profile-greeting {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      position: relative;
+      height: 2.5rem;
+    }
+
+    .greeting-line {
+      font-size: 0.9rem;
+      color: #2d2d2d;
+      position: absolute;
+      white-space: nowrap;
+    }
+
+    .greeting-line.hi-saltuk {
+      animation: showAndHide 4s ease forwards;
+    }
+
+    .greeting-line.welcome {
+      opacity: 0;
+      color: #2d2d2d;
+      animation: showAfterDelay 4s ease forwards;
+    }
+
+    @keyframes showAndHide {
+      0% {
+        opacity: 0;
+        transform: translateX(-10px);
+      }
+      10% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+      45% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+      55% {
+        opacity: 0;
+        transform: translateX(10px);
+      }
+      100% {
+        opacity: 0;
+        transform: translateX(10px);
+      }
+    }
+
+    @keyframes showAfterDelay {
+      0%, 45% {
+        opacity: 0;
+        transform: translateX(-10px);
+      }
+      55% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+      100% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes fadeInSlide {
+      from {
+        opacity: 0;
+        transform: translateX(-10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
     h2 {
       margin: 0;
       font-size: 0.95rem;
@@ -105,8 +231,8 @@
 
     .lead-note a {
       color: #111;
-      font-weight: 600;
-      text-decoration: none;
+      font-weight: 400;
+      text-decoration: underline;
       white-space: nowrap;
     }
 
@@ -180,10 +306,31 @@
 </head>
 <body>
   <main>
+    <div class="profile-header">
+      <div class="profile-photo-container">
+        <img src="profile.jpeg" alt="Saltuk Alakuş" class="profile-photo">
+        <div class="pulse-ring"></div>
+      </div>
+      <div class="profile-greeting">
+        <span class="greeting-line hi-saltuk">Hi, I'm Saltuk</span>
+        <span class="greeting-line welcome">Welcome to my page!</span>
+      </div>
+    </div>
+    
     <section class="lead-note">
-      <h2>About Me</h2>
-      <p>I'm a software engineer with identity and access management expertise. Lately my spare time goes into crafting healthcare and fitness apps.</p>
-      <p>Away from the keyboard, I share life in <a href="https://en.wikipedia.org/wiki/Milton_Keynes" target="_blank" rel="noopener noreferrer">Milton Keynes, UK</a> with my wife and our three kids. Most evenings you'll find me stretching my legs on long walks or studying tactics on <a href="https://www.chess.com/member/saltuka" target="_blank" rel="noopener noreferrer">Chess.com</a>.</p>
+      <p>I'm a software engineer helping companies implement identity and access management solutions with Auth0 in my day job. I have helped hundreds of developers get started with and adopt Auth0.</p>
+      <p>In my spare time you can find me solving <a href="https://www.chess.com/member/saltuka" target="_blank" rel="noopener noreferrer">chess puzzles</a> and crafting mobile and web apps in healthcare and fitness.</p>
+      <p>Away from the keyboard, I share life in <a href="https://en.wikipedia.org/wiki/Milton_Keynes" target="_blank" rel="noopener noreferrer">MK</a> with my wife and kids. Most evenings you'll find me stretching my legs on long walks with my family.</p>
+    </section>
+
+    <section class="projects">
+      <h2>Apps</h2>
+      <div class="project-list">
+        <article class="project-item">
+          <a href="https://pillreminder.co.uk" target="_blank" rel="noopener noreferrer">PillReminder</a>
+          <p>A smart iOS app for medication adherence with customizable reminders, inventory tracking, and emergency contact alerts. Features dark mode, multiple language support, and upcoming caretaker access capabilities.</p>
+        </article>
+      </div>
     </section>
 
     <section class="projects">
