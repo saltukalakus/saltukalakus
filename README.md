@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Manifesto for human developers
+### Dev in 2026 and beyond
 
 1- **UX > DX**: Choose the tech stack that delivers the best performance and native feel for the user. Invest the time saved by AI into maintaining separate, high-quality native codebases rather than compromising with cross-platform wrappers.
 
